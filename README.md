@@ -4,7 +4,7 @@
 
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="35px" height="35px" alt=""> Hello World ! <img src="https://c.tenor.com/fmM4QaupL4wAAAAj/earth-png.gif" alr="" width="30px" height="30px"></h1>
-<h3 align="center"><i>I am Abhishek T R, a B.Tech graduate in Computer Science from University College of Engineering Thodupuzha under APJ Abdul Kalam Technological University, Kerala. I'm a Full Stack Developer proficient in MERN stack with expertise in HTML, CSS, Git/Github, Java, MongoDB, TypeScript, Microservices, and Tailwind CSS. I also have knowledge in NoSQL and SQL databases.</i></h3>
+<h3 align="center"><i>I am Abhishek T R, a B.Tech graduate in Computer Science from University College of Engineering Thodupuzha under APJ Abdul Kalam Technological University, Kerala. I'm a Full Stack Developer proficient in MERN stack with expertise in HTML, CSS, Git/Github, MongoDB, TypeScript, Microservices, and Tailwind CSS. I also have knowledge in NoSQL and SQL databases.</i></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: block; border-radius: 20px;">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=infizeus&label=Profile%20views&color=0e75b6&style=flat" alt="infizeus" /> </p>
