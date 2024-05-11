@@ -9,11 +9,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=infizeus&label=Profile%20views&color=0e75b6&style=flat" alt="infizeus" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/jain_lakshit_17" target="blank"><img src="https://img.shields.io/twitter/follow/jain_lakshit_17?logo=twitter&style=for-the-badge" alt="jain_lakshit_17" /></a> </p> -->
 
-- 🌱 I’m currently learning **Data Structures, Frontend Web Development, Java**
 
-- 💬 Ask me about **HTML, CSS, Git/Github, Java, MongoDB, MERN Stack**
+- 🌱 I’m currently learning and working freelancing in **Data Structures, Full Stack Web Development, **
+
+- 💬 Ask me about **HTML, CSS, Javascript, Git/Github, React.js , Node.js, MongoDB, SQL, MERN Stack**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhiabhishektr/)**
 
@@ -25,6 +25,7 @@
 <a href="https://www.linkedin.com/in/abhiabhishektr/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="abhiabhishektr" height="40" width="40" style="margin-right: 10px;" /></a>
 <a href="mailto:abhiabhishektr@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="abhiabhishektr" height="40" width="40" style="margin-right: 10px;" /></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
