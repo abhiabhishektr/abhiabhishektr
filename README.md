@@ -28,6 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <img src="https://img.icons8.com/fluency/48/000000/heart.png" alt="Heart" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin-right: 10px;">
@@ -35,6 +36,7 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" height="40" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/microservices.png" alt="Microservices" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/tailwind-css.png" alt="Tailwind CSS" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/heart.png" alt="Heart" height="40" style="margin-right: 10px;">
 </p>
