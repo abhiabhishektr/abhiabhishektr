@@ -41,6 +41,6 @@
 
 </p>
 
-<h3 align="left">Check out my Latest Projects,Repositories and problem-solving:</h3>
+<h3 align="left">Check out my Latest Projects, Repositories, and Problem-solving:</h3>
 - [GitHub Repositories](https://github.com/abhiabhishektr?tab=repositories)
 - [LeetCode Profile](https://leetcode.com/u/abhiabhishektr/)
