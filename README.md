@@ -26,9 +26,9 @@
 <a href="mailto:abhiabhishektr@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="abhiabhishektr" height="40" width="40" style="margin-right: 10px;" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://img.icons8.com/fluency/48/000000/heart.png" alt="Heart" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin-right: 10px;">
@@ -37,6 +37,7 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/tailwind-css.png" alt="Tailwind CSS" height="40" style="margin-right: 10px;">
+    <img src="https://icons8.com/icon/cKMLz92tmasS/tailwind-css" alt="Tailwind CSS" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/heart.png" alt="Heart" height="40" style="margin-right: 10px;">
 </p>
+
