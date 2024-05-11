@@ -28,7 +28,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" style="margin-right: 10px;">
@@ -44,3 +44,5 @@
 <h3 align="left">Check out my Latest Projects, Repositories, and Problem-solving:</h3>
 - [GitHub Repositories](https://github.com/abhiabhishektr?tab=repositories)
 - [LeetCode Profile](https://leetcode.com/u/abhiabhishektr/)
+
+
