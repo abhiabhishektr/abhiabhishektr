@@ -4,16 +4,16 @@
 
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="35px" height="35px" alt=""> Hello World ! <img src="https://c.tenor.com/fmM4QaupL4wAAAAj/earth-png.gif" alr="" width="30px" height="30px"></h1>
-<h3 align="center"><i>I am Abhishek T R, a pre-final year Computer Science Undergrad from UPES Dehradun. I'm a Tech Enthusiast, Front-end Developer, and an Open Source Contributor. I love to explore and learn about new domains.</i></h3>
+<h3 align="center"><i>I am Abhishek T R, a B.Tech graduate in Computer Science from University College of Engineering Thodupuzha under APJ Abdul Kalam Technological University, Kerala. I'm a Full Stack Developer proficient in MERN stack with expertise in HTML, CSS, Git/Github, Java, MongoDB, TypeScript, Microservices, and Tailwind CSS. I also have knowledge in NoSQL and SQL databases.</i></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: block; border-radius: 20px;">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=infizeus&label=Profile%20views&color=0e75b6&style=flat" alt="infizeus" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/jain_lakshit_17" target="blank"><img src="https://img.shields.io/twitter/follow/jain_lakshit_17?logo=twitter&style=for-the-badge" alt="jain_lakshit_17" /></a> </p> -->
 
-- 🌱 I’m currently learning **Data Structures, Frontend Web Development, C++, Java**
+- 🌱 I’m currently learning **Data Structures, Frontend Web Development, Java**
 
-- 💬 Ask me about **HTML, CSS, Git/Github, C++, C, Java**
+- 💬 Ask me about **HTML, CSS, Git/Github, Java, MongoDB, MERN Stack**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhiabhishektr/)**
 
@@ -28,13 +28,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40" style="margin-right: 10px;">
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40" style="margin-right: 10px;">
-<img
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/microservices.png" alt="Microservices" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" height="40" style="margin-right: 10px;">
+</p>
